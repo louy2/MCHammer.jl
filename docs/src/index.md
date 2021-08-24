@@ -10,7 +10,7 @@ The *MC* in MC Hammer stands for Monte-Carlo. This tool is inspired by seminal t
 
 ```julia
     using Pkg
-    Pkg.("MCHammer")
+    Pkg.add("MCHammer")
 ```
 
 If you need to install direct, we recommend using ']' to go in the native Pkg manager.
